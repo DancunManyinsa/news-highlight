@@ -1,6 +1,6 @@
 ## Specifications
 
-| Behavior            | Input                         | Output                        | 
+| Behavior            | Input                         | Output                        |
 | ------------------- | ----------------------------- | ----------------------------- |
 | View General sources | Scroll through the  `General` section | See all sources with the general category and click to see articles|
 | View Business sources | Scroll through the  `Business` section | See all sources with the business category and click to see articles|
