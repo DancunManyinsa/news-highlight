@@ -50,7 +50,7 @@ A folder by the name News-highlight  appears on your desktop.
 
 Open your terminal
 
-```cd/Desktop/News-highlight /```
+```cd/Desktop/News-highlight/```
 
 ```atom .```
 
