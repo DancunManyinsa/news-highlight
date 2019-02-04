@@ -1,5 +1,5 @@
 ## Author
-Dancun Manyinsa - Quotes App project - To get access to Quotes App project click on this [link](https://dancunmanyinsa.github.io/Quotes/)
+Dancun Manyinsa - News-highlight project - To get access to News-highlight project click on this [link]( https://n-h.herokuapp.com/)
 
 I'm a Python and Rust enthusiast interested in AI and Cybersecurity. You can get in contact with me through my email at dancunmanyinsait@gmail.com
 
