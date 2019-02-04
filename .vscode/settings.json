@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "/usr/bin/python3",
+  "xml.fileAssociations": [
+    {
+      "systemId": "/home/dan/Desktop/News-Highlights/schema/tns.xsd",
+      "pattern": "**/**/*.xml"
+    }
+  ]
+}

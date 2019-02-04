@@ -1,0 +1,5 @@
+{% extends 'bootstrap/base.html' %} {% block styles %} {{super()}}
+
+<link href="{{url_for('static',filename='css/index.css')}}" rel="stylesheet">
+<link href="{{url_for('static',filename='css/bootstrap-grid.css')}}" rel="stylesheet">
+<link href="{{url_for('static',filename='css/bootstrap.min.css')}}" rel="stylesheet"> {% endblock %} {% block navbar %} {% include 'nav.html' %} {% endblock %}
