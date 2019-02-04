@@ -4,7 +4,7 @@ Dancun Manyinsa - News-highlight project - To get access to News-highlight proje
 I'm a Python and Rust enthusiast interested in AI and Cybersecurity. You can get in contact with me through my email at dancunmanyinsait@gmail.com
 
 ## News-highlight project
-News-highlight Application helps list and preview news articles from various sources. 
+News-highlight Application helps list and preview news articles from various sources, select a news source and see all news articles from the selected news source in the application 
  
 ## Project requirements
 1. Project should project should contain two models, one for the news source and one for the news article.
