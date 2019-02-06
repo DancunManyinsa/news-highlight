@@ -7,7 +7,7 @@ I'm a Python and Rust enthusiast interested in AI and Cybersecurity. You can get
 News-highlight Application helps list and preview news articles from various sources, select a news source and see all news articles from the selected news source in the application.
  
 ## Project requirements
-1. Project should project should contain two models, one for the news source and one for the news article.
+1. Project should contain two models, one for the news source and one for the news article.
 2. Project must use views and routes.
 3. Project should consume the News API.
 4. Project should follow the proper folder structure.
