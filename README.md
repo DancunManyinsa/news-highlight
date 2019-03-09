@@ -80,5 +80,5 @@ THE SOFTWARE.
 
 ## Acknowledgments
 
-Inspiration from Steve Muema, Dan Boneh, Dominic Macharia, John, George Waceke and James Vitalis.
+Great minds
 
