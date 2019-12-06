@@ -19,5 +19,5 @@ class TestArticles(unittest.TestCase):
         self.assertEquals(self.new_article.description,'Title is great...')
         self.assertEquals(self.new_article.image,'https://google.com/images')
         self.assertEquals(self.new_article.publishedAt,'h2018-05-12T13:31:03Z')
-        self.assertEquals(self.new_article.author,'liz')
+        self.assertEquals(self.new_article.author,'Dan')
         self.assertEquals(self.new_article.url,'buzzfeed.com')
