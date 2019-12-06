@@ -9,7 +9,7 @@ class TestNews(unittest.TestCase):
         '''
         Test class to run before other tests
         '''
-        self.new_news_source = News('abc','liz','https://abc.com/','abc news is the best source', 'usa', 'general', 'abc-news')
+        self.new_news_source = News('abc','Dan','https://abc.com/','abc news is the best source', 'usa', 'general', 'abc-news')
     
     def test_instance(self):
         '''
