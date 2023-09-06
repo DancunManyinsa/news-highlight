@@ -1,8 +1,7 @@
 ## Author
 Dancun Manyinsa - News-highlight project - To get access to News-highlight project click on this [link]( https://n-h.herokuapp.com/)
 
-I'm a Python and Rust enthusiast interested in AI and Cybersecurity. You can get in contact with me through my email at dancunmanyinsait@gmail.com
-
+I'm a Python and Rust enthusiast interested in AI and Cybersecurity. 
 ## News-highlight project
 News-highlight Application helps list and preview news articles from various sources, select a news source and see all news articles from the selected news source in the application.
  
