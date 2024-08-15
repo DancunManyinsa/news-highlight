@@ -1,10 +1,13 @@
 ## Author
+
 > Dancun Manyinsa - News-highlight project - To get access to the project click on this [link]( https://n-h.herokuapp.com/)
 
 ## News-highlight project
+
 News-highlight Application helps list and preview news articles from various sources, select a news source and see all news articles from the selected news source in the application.
  
 ## Project requirements
+
 1. Project should contain two models, one for the news source and one for the news article.
 2. Project must use views and routes.
 3. Project should consume the News API.
